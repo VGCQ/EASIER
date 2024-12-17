@@ -1,6 +1,28 @@
-# The Simpler The Better: An Entropy-Based Importance Metric To Reduce Neural Networks' Depth
+<div align="center">
+  <div>
+  <h1>The Simpler The Better: An Entropy-Based Importance Metric To Reduce Neural Networks' Depth</h1> 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2102.03773-b31b1b.svg)](https://arxiv.org/abs/2404.18949.pdf)
+[![Static Badge](https://img.shields.io/badge/EASIER-arXiv-red)](https://arxiv.org/abs/2404.18949)
+[![Static Badge](https://img.shields.io/badge/EASIER-Springer-blue)](https://link.springer.com/chapter/10.1007/978-3-031-70365-2_6)
+
+  </div>
+
+</div>
+
+<div align="center">
+
+<div>
+    <a href='' target='_blank'>Victor Quétu</a><sup>1</sup>&emsp;
+    <a href='' target='_blank'>Zhu Liao</a><sup>1</sup>&emsp;
+    <a href='' target='_blank'>Enzo Tartaglione</a><sup>1</sup>&emsp;  
+</div>
+<div>
+<sup>1</sup>LTCI, Télécom Paris, Institut Polytechnique de Paris&emsp;  
+
+</div>
+</div> <br>
+
+📣 Published as a conference paper at ECML PKDD 2024.  <br>
 
 This GitHub implements the key experiments of the following paper: [The Simpler The Better: An Entropy-Based Importance Metric To Reduce Neural Networks' Depth](https://arxiv.org/abs/2404.18949.pdf), and more particularly of our method relying on an **E**ntropy-b**AS**ed **I**mportance m**E**t**R**ic (**EASIER**) to reduce the depth of over-parametrized deep neural networks.    
 
