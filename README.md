@@ -78,10 +78,12 @@ Please find attached the appendix of the paper at [appendix.md](appendix.md).
 
 If you find this useful for your research, please cite the following paper.
 ```
-@article{quetu2024simpler,
-  title={The Simpler The Better: An Entropy-Based Importance Metric To Reduce Neural Networks' Depth},
+@inproceedings{quetu2024simpler,
+  title={The simpler the better: An entropy-based importance metric to reduce neural networks’ depth},
   author={Qu{\'e}tu, Victor and Liao, Zhu and Tartaglione, Enzo},
-  journal={arXiv preprint arXiv:2404.18949},
-  year={2024}
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  pages={92--108},
+  year={2024},
+  organization={Springer}
 }
 ```
